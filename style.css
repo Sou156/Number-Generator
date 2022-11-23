@@ -42,10 +42,11 @@ button {
   width: 200px;
   border: none;
   color: white;
-  height: 32px;
-  font-size: 18px;
+  height: 45px;
+  font-size: 20px;
   cursor: pointer;
   margin-left: 30px;
+  
 }
 
 input {
@@ -83,4 +84,10 @@ button:hover {
 
 .ol {
   margin-left: -670px;
+  font-weight: lighter;
+
+}
+
+li{
+  margin-bottom:5px;
 }
