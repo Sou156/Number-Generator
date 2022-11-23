@@ -22,6 +22,7 @@ body {
   align-items: center;
   justify-content: center;
   transition: transform .2s;
+  cursor: pointer;
 }
 .numdivs:hover{
   transform: scale(0.9);
